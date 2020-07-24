@@ -24,7 +24,7 @@
 
 # 如何参与
 * 创建 github 帐号 （如果没有）
-* 登录后在[这里](https://github.com/geoinsider/aboutGeoInsider/issues/1) 介绍自己的工作领域，设想与兴趣
+* 登录后在[这里](https://github.com/geoinsider/aboutGeoInsider/issues/1)介绍自己的工作领域，设想与兴趣
 * 形成项目简要，并与成员协商、对结形成临时项目组
 * 项目组一般由 2-3 人组成，可另外安排成员作为 reviewer
 * 根据要求和指导意见推进项目，提交代码，回顾和总结
